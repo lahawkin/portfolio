@@ -1,20 +1,10 @@
-# lahawkin.github.io
-## Installation
+# lahawkin.github.io 
 
-I think a git pull of the project would get it installed. 
-
-
-## Usage 
-
-So I think you should use it... like a website? 
-
+## My Portfolio
+This project is a few html pages of my work in the coding bootcamp at UCSD.  
 
 ## Credits
 
 Collaborated with the UCSD Extension Coding Bootcamp
-
-## License
-
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
 
 
